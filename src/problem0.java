@@ -20,7 +20,7 @@ public class problem0 {
         System.out.print("Please enter your class: ");
         course = input.nextLine();
 
-        System.out.print("How many books would you like? ");
+        System.out.print("How many snacks would you like? ");
         snacks = Integer.parseInt(input.nextLine());
 
         cost=snackCost(snacks);
